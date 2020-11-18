@@ -23,9 +23,10 @@ The figure above depicts the analysis performed on the first set which does not 
 ## Package and File List
 The file tree shows the various packages in this project.
 
-![tree1](https://user-images.githubusercontent.com/47361086/98941699-60438000-2506-11eb-945e-3f5ad7b48c23.PNG)
+![Capture1](https://user-images.githubusercontent.com/47361086/99588463-078f4e00-2a04-11eb-9cb3-5d4187a20a4a.PNG)
 
-The **docs** folder contains the documentations obtained from doxgen.The **index.html** contains the html documentation of all the scripts used in this project.The **launch folder** has the **launch fil**e to run the project. The scripts are all contained inside the **src folder**.
+
+The **EMG_data_ANNA**  and **kinem_ANNA**  contains the recorded EMG signal and motion data for analysing.All the other files are scripts and functions that support the experiment.
 ## Installation and Running Procedure
 Clone this github repository into the ROS workspace
 ```
