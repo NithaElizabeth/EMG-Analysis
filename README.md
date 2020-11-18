@@ -36,6 +36,6 @@ On downloading the repository the the scripts couls be run on any system with Ma
 
 
 ## Author
-The system was developed by Nitha Elizabeth John under the guidance of Prof. Maura Casadio and Prof. Serena Ricci\
+The system was developed by Nitha Elizabeth John under the guidance of Prof. Maura Casadio and Prof. Serena Ricci. \
 Author  : Nitha Elizabeth John\
 Contact : nithaelizabethjohn@gmail.com
